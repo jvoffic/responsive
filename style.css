@@ -196,4 +196,8 @@ footer h1 {
         width: 300px;
     }
 
+    .col-right h2 {
+        font-size: 2rem;
+    }
+
 }
